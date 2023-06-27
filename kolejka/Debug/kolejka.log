@@ -1,0 +1,3 @@
+﻿  kolejka.cpp
+C:\Users\106\source\repos\e_kosicki\kolejka\kolejka.cpp(13,12): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+  kolejka.vcxproj -> C:\Users\106\source\repos\e_kosicki\kolejka\Debug\kolejka.exe
