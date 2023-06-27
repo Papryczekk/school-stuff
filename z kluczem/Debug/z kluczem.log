@@ -1,0 +1,4 @@
+﻿  z kluczem.cpp
+C:\Users\106\source\repos\e_kosicki\z kluczem\z kluczem.cpp(39,20): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\106\source\repos\e_kosicki\z kluczem\z kluczem.cpp(39,17): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+  z kluczem.vcxproj -> C:\Users\106\source\repos\e_kosicki\z kluczem\Debug\z kluczem.exe
